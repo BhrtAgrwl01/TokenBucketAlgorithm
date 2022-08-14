@@ -1,2 +1,2 @@
 # TokenBucketAlgorithm
-Token Bucket Algorithm
+Implementation of Token Bucket Algorithm
